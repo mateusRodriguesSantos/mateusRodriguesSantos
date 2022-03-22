@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**mateusRodriguesSantos/mateusRodriguesSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Seja bem-vindo 👋
 
 Olá , eu sou o Mateus Rodrigues!
 🔭 iOS Developer na Concrete Solutions.
@@ -12,6 +9,9 @@ Olá , eu sou o Mateus Rodrigues!
 
 
 🛠  Tech Stack
-Swift  XCode  Git  GitHub 
 
--->
+- Swift  
+- XCode  
+- Git  
+- GitHub 
+
