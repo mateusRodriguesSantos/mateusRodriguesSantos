@@ -2,7 +2,7 @@
 
 Olá , eu sou o Mateus Rodrigues!
 
-🔭 iOS Developer na Concrete Solutions;
+🔭 iOS Developer na Novigo|BTG+;
 
 🧑‍🎓 Graduado em Ciência da Computação pela Universidade Católica de Brasília (UCB);
 
