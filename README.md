@@ -14,8 +14,11 @@ Olá , eu sou o Mateus Rodrigues!
 
 🛠  Tech Stack:
 
-- Swift  
+- Swift
+- Java
+- WEB
 - XCode  
 - Git  
-- GitHub 
+- VSCode
+- GitHub
 
