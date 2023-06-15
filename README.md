@@ -2,7 +2,7 @@
 
 Olá , eu sou o Mateus Rodrigues!
 
-🔭 iOS Developer na Novigo|BTG+;
+🔭 iOS Developer e Java Developer;
 
 🧑‍🎓 Graduado em Ciência da Computação pela Universidade Católica de Brasília (UCB);
 
@@ -16,6 +16,8 @@ Olá , eu sou o Mateus Rodrigues!
 
 - Swift
 - Java
+- Angular
+- Spring
 - WEB
 - XCode  
 - Git  
