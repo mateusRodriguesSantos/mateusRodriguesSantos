@@ -24,3 +24,12 @@ Olá , eu sou o Mateus Rodrigues!
 - VSCode
 - GitHub
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<div>
+<a href="https://github.com/mateusRodriguesSantos">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mateusRodriguesSantos&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateusRodriguesSantos&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</div>
+
