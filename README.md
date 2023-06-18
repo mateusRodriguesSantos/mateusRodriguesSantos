@@ -24,7 +24,7 @@ Olá , eu sou o Mateus Rodrigues!
 - VSCode
 - GitHub
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp; GitHub Analytics
 
 <div>
 <a href="https://github.com/mateusRodriguesSantos">
