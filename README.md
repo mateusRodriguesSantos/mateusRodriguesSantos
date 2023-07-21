@@ -14,6 +14,8 @@ Olá , eu sou o Mateus Rodrigues!
 
 🛠  Tech Stack:
 
+- Xcode
+- Objective-C
 - Swift
 - Java
 - Angular
