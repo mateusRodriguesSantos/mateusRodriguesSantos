@@ -17,6 +17,10 @@ Olá , eu sou o Mateus Rodrigues!
 - Xcode
 - Objective-C
 - Swift
+- UIKit
+- SwiftUI
+- Flutter
+- Dart
 - Java
 - Angular
 - Spring
